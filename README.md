@@ -14,7 +14,7 @@ Steps for setting up the developement enviroment
 
 - vagrant ssh
 
-- cd \vagrant
+- cd \vagrant    
 
 3. You should now be connected to your vagrant machine and inside the folder \vagrant. Change directory to 'tournament' by
 
