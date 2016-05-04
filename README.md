@@ -16,4 +16,8 @@ Steps for setting up the developement enviroment
 
 - cd \vagrant
 
+3. You should now be connected to your vagrant machine and inside the folder \vagrant. Change directory to 'tournament' by
+
+- cd \tournament
+
 
