@@ -6,18 +6,18 @@ Download the zip file from the link https://github.com/aimanaijaz/tournamentplan
 
 Steps for setting up the developement enviroment 
 
-1. Follow instructions from this link https://www.udacity.com/wiki/ud088/vagrant to install the virtual machine required to run the project. 
+    1. Follow instructions from this link https://www.udacity.com/wiki/ud088/vagrant to install the virtual machine required to run the project. 
 
-2. At the command prompt type the following commands
+    2. At the command prompt type the following commands
 
-- vagrant up
+        - vagrant up
 
-- vagrant ssh
+        - vagrant ssh
 
-- cd \vagrant    
+        - cd \vagrant    
 
-3. You should now be connected to your vagrant machine and inside the folder \vagrant. Change directory to 'tournament' by
+    3. You should now be connected to your vagrant machine and inside the folder \vagrant. Change directory to 'tournament' by
 
-- cd \tournament
+        - cd \tournament
 
 
