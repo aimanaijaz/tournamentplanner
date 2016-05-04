@@ -4,7 +4,7 @@ How to run the project
 
 Download the zip file from the link https://github.com/aimanaijaz/tournamentplanner
 
-Steps for setting up the developement enviroment
+Steps for setting up the developement enviroment 
 
 1. Follow instructions from this link https://www.udacity.com/wiki/ud088/vagrant to install the virtual machine required to run the project. 
 
